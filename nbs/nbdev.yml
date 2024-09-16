@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "marise"
+  site-url: "https://franckalbinet.github.io/marise"
+  description: "Conversational agent using LLM and RAG to dialog with IAEA/MARIS metadata and scientific papers."
+  repo-branch: main
+  repo-url: "https://github.com/franckalbinet/marise"
