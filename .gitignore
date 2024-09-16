@@ -1,5 +1,8 @@
 _docs/
+_data/
 _proc/
+dump/
+.ragatouille/*
 
 *.bak
 .gitattributes
@@ -26,7 +29,6 @@ __pycache__/
 .Python
 env/
 build/
-conda/
 develop-eggs/
 dist/
 downloads/

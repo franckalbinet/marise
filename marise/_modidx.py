@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://franckalbinet.github.io',
                 'git_url': 'https://github.com/franckalbinet/marise',
                 'lib_path': 'marise'},
-  'syms': {'marise.core': {'marise.core.foo': ('core.html#foo', 'marise/core.py')}}}
+  'syms': { 'marise.metadata': { 'marise.metadata.dict_to_string': ('metadata.html#dict_to_string', 'marise/metadata.py'),
+                                 'marise.metadata.read_metadata': ('metadata.html#read_metadata', 'marise/metadata.py'),
+                                 'marise.metadata.read_metadata_from_directory': ( 'metadata.html#read_metadata_from_directory',
+                                                                                   'marise/metadata.py')}}}
